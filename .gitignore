@@ -1,0 +1,6 @@
+node_modules
+.env
+Queries.sql
+dev.db
+development.db
+.prettierrc
